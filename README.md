@@ -1,7 +1,7 @@
-#2 Ising model
+## Ising model
 
-#2 XY model
+## XY model
 
-#2 Heissenberg model
+## Heissenberg model
 
 
