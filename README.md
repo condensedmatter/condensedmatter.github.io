@@ -1,7 +1,11 @@
+# O(n) models
+
 ## Ising model
 
 ## XY model
 
-## Heissenberg model
+## Heisenberg model
+
+
 
 
