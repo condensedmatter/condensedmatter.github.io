@@ -1,10 +1,10 @@
 # O(n) models
 
-## Ising model
+## n=1 Ising model
 
-## XY model
+## n=2 XY model
 
-## Heisenberg model
+## n=3 Heisenberg model
 
 
 
