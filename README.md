@@ -7,5 +7,25 @@
 ## n=3 Heisenberg model
 
 
+## Potts models
+
+## Ashkin–Teller model
+
+
+## spin-boson model
+
+
+
+## tight-binding model
+
+## Hubbard model
+
+### t-J model
+
+## RVB theory
+
+## BCS theory
+
+
 
 
