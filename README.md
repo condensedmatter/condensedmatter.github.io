@@ -1,5 +1,6 @@
 ## O(n) models
 ![O(n) models](https://latex.codecogs.com/gif.latex?H%3D-J%20%5Csum%20s_i%20%5Ccdot%20s_j)
+![O(n) models](https://latex.codecogs.com/gif.latex?%5Cfn_phv%20%5Clarge%20H%3D-J%20%5Csum%20s_i%20%5Ccdot%20s_j)
 
 #### n=1 Ising model
 
